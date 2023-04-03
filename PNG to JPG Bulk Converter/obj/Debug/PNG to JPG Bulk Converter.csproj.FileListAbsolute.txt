@@ -1,0 +1,5 @@
+d:\marek\visual studio 2015\Projects\PNG to JPG Bulk Converter\PNG to JPG Bulk Converter\bin\Debug\PNG to JPG Bulk Converter.exe.config
+d:\marek\visual studio 2015\Projects\PNG to JPG Bulk Converter\PNG to JPG Bulk Converter\bin\Debug\PNG to JPG Bulk Converter.exe
+d:\marek\visual studio 2015\Projects\PNG to JPG Bulk Converter\PNG to JPG Bulk Converter\bin\Debug\PNG to JPG Bulk Converter.pdb
+d:\marek\visual studio 2015\Projects\PNG to JPG Bulk Converter\PNG to JPG Bulk Converter\obj\Debug\PNG to JPG Bulk Converter.exe
+d:\marek\visual studio 2015\Projects\PNG to JPG Bulk Converter\PNG to JPG Bulk Converter\obj\Debug\PNG to JPG Bulk Converter.pdb
